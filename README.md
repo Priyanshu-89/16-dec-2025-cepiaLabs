@@ -108,7 +108,7 @@ Example:
 - Plain text passwords can be leaked in database breaches
 - One leak can compromise multiple user accounts
   
-# Hashing libraries
+Hashing libraries
 - bcrypt
 
 ---
@@ -205,7 +205,7 @@ A Mongoose schema defines:
 - Validation rules
 - Constraints
 
-# It ensures data consistency and validation in MongoDB collections.
+It ensures data consistency and validation in MongoDB collections.
 
 ---
 
@@ -214,7 +214,7 @@ A Mongoose schema defines:
 - Creates a unique index in MongoDB
 - Prevents duplicate values
 
-# It does not fully guarantee uniqueness due to possible race conditions.
+It does not fully guarantee uniqueness due to possible race conditions.
 
 ---
 
@@ -252,6 +252,7 @@ If pushed to GitHub:
 - Serious security risk
   
 ---
+
 
 
 
