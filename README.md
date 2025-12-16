@@ -58,7 +58,7 @@ password:z.string().min(8)
 
 ### 6. What is z.object() and why is nested validation important?
 
-# z.object() is used to validate structures JSON-like data.
+ z.object() is used to validate structures JSON-like data.
 
 - Example:
 ```ts
@@ -70,7 +70,7 @@ age:z.number()
 })
 ```
 
-# Why nested validation matters:
+ Why nested validation matters:
 - Ensures deep data integrity
 - Prevents invalid nested objects
 - Essentail for complex APIs and real-world data structures
@@ -252,6 +252,7 @@ If pushed to GitHub:
 - Serious security risk
   
 ---
+
 
 
 
